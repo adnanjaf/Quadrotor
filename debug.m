@@ -34,7 +34,7 @@ addpath(genpath('./'));
 % testData = load('testPathMyMap_xyres0.5.mat');
 
 % Map 0
-% testData = load('testPath0.mat');
+testData = load('testPath0.mat');
 
 % Map 1
 % testData = load('testPathMap1_xyres0.2.mat');
